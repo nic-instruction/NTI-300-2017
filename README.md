@@ -19,25 +19,26 @@ Covers basic understanding of the command line to automation of administrative t
  
 
 ## Course Texts
-   * UNIX and LINUX System Administration Handbook
+
+### UNIX and LINUX System Administration Handbook
    * EDITION: 4TH 11
    * PUBLISHER: PEARSON
    * ISBN: 9780131480056
 
-   * Learning the Bash Shell 3rd Edition
+### Learning the Bash Shell 3rd Edition
    * EDITION: 3RD 05
    * PUBLISHER: INGRAM PUB
    * ISBN: 9780596009656
 
-   * Automate the Boring Stuff with Python
+### Automate the Boring Stuff with Python
    * EDITION: 15
    * PUBLISHER: No Starch Press
    * ISBN: 9781593275990
    * Free Online Version: https://automatetheboringstuff.com (Links to an external site.)Links to an external site. 
  
 
-Evaluation
-Students will be evaluated based on timely completion of assignments, labs and assigned reading.  The final for this class will be a full network/app proposal for a 'new datacenter' and a one year forcast of maintenance and expenses.
+## Evaluation
+Students will be evaluated based on timely completion of assignments, labs and assigned reading.  The final for this class will be to fully automate the process of spinning up a node in AWS with a finishing script that correctly installs the django server.
 
 Grading Scale
 Standard College Grading Scale: 
