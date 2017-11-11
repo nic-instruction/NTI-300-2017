@@ -1,50 +1,39 @@
 # NTI-300-2017
 
+
+
 Munroe, Randall. "XKCD: Devotion to Duty." Https://xkcd.com. N.p., n.d. Web. 23 Sept. 2016. <https://xkcd.com/705/>.
 
  
 
-Course Description
+## Course Description
 Covers basic understanding of the command line to automation of administrative tasks and configuration across a large environment. Learn to cron, armor, and log administrative scripts and translate them into high level scripting languages. Also includes regex, stream editing, remote admin, change management, databases and web.
 
  
 
-Course Objectives
+## Course Objectives
  
 
  
 
  
 
-Course Texts
- 
+## Course Texts
+   * UNIX and LINUX System Administration Handbook
+   * EDITION: 4TH 11
+   * PUBLISHER: PEARSON
+   * ISBN: 9780131480056
 
-UNIX and LINUX System Administration Handbook
-UNIX+LINUX SYSTEM ADMIN.HANDBOOK      
+   * Learning the Bash Shell 3rd Edition
+   * EDITION: 3RD 05
+   * PUBLISHER: INGRAM PUB
+   * ISBN: 9780596009656
 
- 
-
-EDITION: 4TH 11
-PUBLISHER: PEARSON
-ISBN: 9780131480056
-REQUIRED
-Learning the Bash Shell 3rd Edition
-
-LEARNING THE BASH SHELL
-
-EDITION: 3RD 05
-PUBLISHER: INGRAM PUB
-ISBN: 9780596009656
-RECOMMENDED
-Automate the Boring Stuff with Python
-
-AUTOMATE THE BORING STUFF WITH PYTHON
-
-EDITION: 15
-PUBLISHER: No Starch Press
-ISBN: 9781593275990
-RECOMMENDED
-Free Online Version: https://automatetheboringstuff.com (Links to an external site.)Links to an external site. 
+   * Automate the Boring Stuff with Python
+   * EDITION: 15
+   * PUBLISHER: No Starch Press
+   * ISBN: 9781593275990
+   * Free Online Version: https://automatetheboringstuff.com (Links to an external site.)Links to an external site. 
  
 
 Evaluation
