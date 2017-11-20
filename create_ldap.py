@@ -1,5 +1,3 @@
-startup_script = open('startup-script.sh', 'r').read()
-
 def create_instance(compute, project, zone, name):
     startup_script = open('startup-script.sh', 'r').read()
     image_response = compute.images().getFromFamily(
