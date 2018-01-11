@@ -1,0 +1,18 @@
+
+# The power of sed one-liners
+# intro to rejex
+sed -i 's/^/#/g' /etc/httpd/conf.d/welcome.conf 
+
+# In rejex ^ means 'the beginning of a line
+# So this command asks sed to make changes to a file (sed -i)
+# And search (s/) for the beginning of each line(^/) 
+# And at the beginning, add a comment (#/g) the g tells sed to do this globally
+
+# More on sed: http://www.grymoire.com/Unix/Sed.html
+
+
+
+# The power of \n for newline
+# The power of echo -e (enable interpretations of backslashes and escapes)
+
+echo -e "<html> \n<h1> Welcome, NTI-300 </h2> \n</html>" > index.html
