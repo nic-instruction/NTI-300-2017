@@ -3,7 +3,6 @@ import os
 
 def setup_install():
     print('installing pip and virtualenv so we can give django its own version of python')
-    os.system('rpm -iUvh https://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-8.noarch.rpm')
     os.system('yum -y install python-pip && pip install --upgrade pip')
     os.system('pip install virtualenv')
     os.chdir('/opt')
