@@ -10,7 +10,7 @@ from create_ldap import create_instance
 credentials = GoogleCredentials.get_application_default()
 compute = discovery.build('compute', 'v1', credentials=credentials)
 
-project = 'instructor-nti-300-2018'
+project = 'nti-310-fall-2018'
 zone = 'us-east1-b'
 
 # what kind of machine is being requested and what should it's name be?
